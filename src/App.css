@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.css-aagiyn-MuiDataGrid-root .MuiDataGrid-menuIcon ,
+.css-aagiyn-MuiDataGrid-root .MuiDataGrid-menuOpen,
+.css-aagiyn-MuiDataGrid-root .MuiDataGrid-columnHeader--alignCenter .MuiDataGrid-menuIcon,
+.css-nzme9u .MuiDataGrid-menuIcon {
+  visibility: visible !important;
+  margin-left: auto;
+  width: auto !important;
+}
